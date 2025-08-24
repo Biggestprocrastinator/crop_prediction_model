@@ -4,3 +4,4 @@ It will deliver results from over 50 types of crops
 Model hosted on IBM CLOUD PLATFORM
 Trained using kaggle dataset
 99.2 accuracy
+Trained via random forest etc
